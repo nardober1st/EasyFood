@@ -1,5 +1,5 @@
 # EasyFoodApp
-This app was an app that I developed to practice my studies on MVVM, Coroutines, Fragments, etc.
+This app was an app that I developed watching youtube tutorials to practice my studies on MVVM, Coroutines, Fragments, etc.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
