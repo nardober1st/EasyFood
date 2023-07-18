@@ -3,7 +3,7 @@ This app was an app that I have developed to practice my studies on MVVM, Corout
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="ss_homefrag.png" width="230">&emsp;<img src="ss_favoritesfrag.png" width="230">&emsp;<img src="ss_categories.png" width="230">&emsp;<img src="ss_mealsdetail.png" width="230">&emsp;<img src="ss_longclick.png" width="230">&emsp;<img src="ss_searchfeatures.png" width="230">&emsp;
+<img src="ss_homefrag.png" width="230">&emsp;
 
 ## Technologies
 * Java
