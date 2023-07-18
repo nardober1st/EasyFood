@@ -1,31 +1,37 @@
 # EasyFoodApp
-This app was an app that I have developed to practice my studies on MVVM, Coroutines, Fragments, etc.
+This app was an app that I developed to practice my studies on MVVM, Coroutines, Fragments, etc.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="screenshots/ss_homefrag.png" width="230">&emsp;<img src="screenshots/ss_favoritesfrag.png" width="230">&emsp;<img src="screenshots/ss_categoriesfrag.png" width="230">&emsp;<img src="screenshots/ss_mealsdetail.png" width="230">&emsp;<img src="screenshots/ss_longclick.png" width="230">&emsp;<img src="screenshots/ss_searchfeatures.png" width="230">&emsp;
 
 ## Technologies
-* Java
-  - Different Methods
-  - Class
+* Kotlin
+  - MVVM
+  - Kotlin Coroutines
+  - Retrofit to consume an API
+  - RecyclerView Adapters
+  - LiveData
+  - ViewModelFactory
+  - DiffUtil
 * ViewGroup
     * RecyclerView
+    * AppBar Layout
+    * NestedScrollView
+    * ConstraintLayout
+    * CoordinatorLayout
     * CardView
-    * RelativeLayout
+    * CollapsingToolbarLayout
     * LinearLayout
+    * Navigation 
 * UI Components
   - ImageView
+  - FloatingActionButton
   - TextView
-  - View
-  - RatingBar
-* FindViewById to get UI Components
-* RecyclerView Adapter
-
-
-### TODO
-- Update App's design
-- Add new items to 'Things to Do' and 'Places to Go'
+  - EditText
+  - LinearProgressIndicator
+* Glide for image loading
+* ViewBinding
 
 ## Author
 Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
